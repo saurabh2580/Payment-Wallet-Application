@@ -9,11 +9,9 @@ To create payment wallet application for XYZ bank. Customers will be able to add
 ## Team Members
 
 <ul>
-  <li><a href="https://github.com/pratiksontakke">Pratik Sontakke</a></li>
-  <li><a href="https://github.com/Hartumpa">Harshit Awasthi</a></li>
-  <li><a href="https://github.com/jkka777">Kishore J</a></li>
-  <li><a href="https://github.com/sachin9603">Sachin Parmar</a></li>
-  <li><a href="https://github.com/rajashekharms369">Rajashekhar Sambalad</a></li>
+
+  <li><a href="https://github.com/saurabh2580">Saurabh Kadam</a></li>
+
 
 </ul>
 
@@ -118,7 +116,7 @@ application.properties :
 
 ## API Presentation Video
 <ul>
-  <li><a href="https://drive.google.com/file/d/1IEAVuEbmHCJ9_2xlEJWCAx3IqWw9dKPA/view?usp=share_link">Video Link</a></li>
+  <li><a href="#">Video Link</a></li>
 </ul>
 
 ## API Presentation 
@@ -133,5 +131,5 @@ application.properties :
 ## Thank you note
 Thank you all who is giving precious time to visit our little creative project which is made with lot of efforts.
 
-_<p align="center"><sub>- Readme file designed by <a href="https://github.com/pratiksontakke">Pratik Sontakke</a> -</sub></p>_
+_<p align="center"><sub>- Readme file designed by <a href="https://github.com/saurabh2580">Saurabh Kadam</a> -</sub></p>_
 # Payment-Wallet-Application
